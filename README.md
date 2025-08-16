@@ -2,8 +2,7 @@
 
 This repository contains a collection of Python exercises focused on practicing built-in data structures such as **lists, dictionaries, and tuples**.
 
-Each exercise is saved in a separate file, with a clear name and commit message that describes the task. This approach keeps the repository clean and makes it easy to track progress and revisit individual problems.
-
+Each exercise is saved in a separate file, with a clear name and commit message that describes the task.
 ---
 
 ## 🚀 Purpose
